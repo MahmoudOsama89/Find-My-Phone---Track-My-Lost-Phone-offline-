@@ -1,14 +1,30 @@
-##Find my phone is app on [Google Play](https://play.google.com/store/apps/details?id=phonelocation.example.asuss550c.phonelocationphone)
-this app allows you to find your phone when you miss it by using another phone.
-this app use GPS and SMS it doesn't need internet to find your phone.
-also its allows you to track many phones, and allows many person to track you.
-also its allows you to ask help from all your tracking persons.
+_Features:
+1- Turn on app SMS Retriver every 5 minuits to listen to incomming SMS 
+2- Recieve SMS including app password & SMS Retriver Code
+3- Send Automatic SMS with lost mobile location once it connceted to internet because there is no other way to send sms from lost phone offline
 
-![img](https://lh3.googleusercontent.com/bj422YvivQYn-cAYdAWXnOo2WCx-yYVLFh7tUzaiiiXrDiDhyNB_vyFFkr3LT_nFTDw=h900)
+Clap phone finder app will allow you to find your phone by a simple clapping if it often happens to you to lose your phone in the office, the room.
 
-![ima](https://lh3.googleusercontent.com/bpnzJaRp3wjHoo0NTS3YmPMuK6tn14UnccLa1KbRcV1J_NOOcnX41BlzWmTG3sfXIBy6=h900)
+To operate clap phone Finder, just clap your hands and your phone will start vibrating, flashlight lit or ring according to the application setting which will allow you to locate it very quickly. Clap phone Finder informs you about the location of your lost phone.
 
-![3dview](https://lh3.googleusercontent.com/INC8l7ghCVKZ6r-_9kaTWjAHBEPCkBcXp_KBybAN2yTaccp7NifSW7GPknHKtTzm9xg=h900)
+We are presenting Brand New Phone Finder by Clapping App with Extra Sensitivity…. clap phone finder is a professional tool which helps you finding lost phone. It detects sound of clapping and run loud alarm. Then you will easily find mobile phone. It’s the best and easiest way to quickly check where your phone is.
 
-![notify](https://lh3.googleusercontent.com/Ta81_k_zECN7GV8oLQ-oE3LUt0GrT6BIWGJeXpvfiIv2TUafOTR0vzpd9rUM-TpoI_Y=h900)
-###For challenger, we added seven bugs in this app you have to fix them to use it, for more see [Video](https://www.youtube.com/watch?v=yczMkvalzU0&list=PLF8OvnCBlEY3e0Yg990aAXreEru72_xWN&index=152)
+Features
+Easily clap to configure and get started.
+Clapping and triggers alarm sound.
+Clap to find my phone with sound.
+Clap to find phone finder is most popular app
+Mobile torch on clap is cell phone finder apps.
+Quickly clap 3 times to configure and get started
+Sound/Vibrate/Flash alert modes
+Customizable ringtone & volume
+Customizable time for which the alert plays
+Auto start app when phone is put on silent
+Pause clap detection when not needed eg: in office hours
+Auto adjusts sensitivity based on Android device
+Customizable sensitivity
+Widget for easy enabling/disabling
+Low battery usage
+Latest UI With Material Design
+Rate App,More App And Share App
+All Device Combability
