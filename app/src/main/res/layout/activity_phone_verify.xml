@@ -1,0 +1,132 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:layout_marginTop="@dimen/top_margin"
+    tools:context="com.integratedappsforlife.tracking.findmyphone.PhoneVerify"
+    >
+
+    <LinearLayout
+        android:divider="@color/darkblue"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/whiteback"
+        >
+
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView2" >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/LLogin"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="9dp"
+                android:layout_marginRight="5dp"
+                android:padding="15dp"
+                >
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:touchscreenBlocksFocus="false"
+                    android:layout_marginBottom="10dp"
+                    android:id="@+id/LBTimeDElay">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/helpmep"
+                        android:id="@+id/imageView2" />
+                    <TextView
+
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:text="@string/AppWork"
+                        android:id="@+id/textView1"
+                        android:textColor="@color/black"
+                        android:layout_marginBottom="0dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="30dp"
+                        android:textSize="20dp"
+                        android:textIsSelectable="true"
+                        android:textStyle="bold" />
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:touchscreenBlocksFocus="false"
+                    android:layout_marginBottom="3dp"
+                    android:layout_weight="0">
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:text="@string/AppDescription"
+                         android:id="@+id/txtuserID"
+                        android:layout_weight="2"
+                        android:textColor="@color/black"
+                        android:paddingBottom="8dp"
+                        android:textSize="18dp"
+                        android:textAlignment="center"
+                        android:textStyle="bold"
+                        android:paddingTop="8dp"
+                        android:paddingLeft="8dp" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="0"
+                    android:layout_marginTop="10dp"
+                    android:padding="6dp">
+
+
+
+
+                  <!--  <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/Iundertand"
+                        android:id="@+id/BuSaveSetting"
+                        android:background="@drawable/buttonblue"
+                        android:onClick="BuDismiss"
+                        android:textColor="@color/White"
+                        android:layout_weight="0"
+                        android:drawableLeft="@drawable/light"
+                        android:layout_marginBottom="5dp" />-->
+
+                </LinearLayout>
+                <Button
+                    android:text="@string/Iundertand"
+                    android:onClick="BuDismiss"
+                    android:textColor="#FFFFFF"
+                    android:textSize="15sp"
+                    android:id="@+id/BuSaveSetting"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/buttonblue"
+                    android:shadowColor="#A8A8A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5"
+                    />
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>

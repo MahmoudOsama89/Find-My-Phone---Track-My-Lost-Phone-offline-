@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/whitebackground"
+    android:layout_height="wrap_content"
+    android:paddingBottom="1dp" android:layout_weight=".15">
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="1dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="1dp"
+        android:background="@color/White"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="2dp"
+        android:gravity="center"
+        android:paddingLeft="2dp"
+        android:layout_margin="5dp"
+        android:padding="2dp">
+
+    <Button
+        android:id="@+id/buaddnew"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/buttonblue"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="@string/add"
+         />
+        <!--<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add"
+            android:id="@+id/buaddnew"
+            android:drawablePadding="10dp"
+            android:background="@drawable/buttonblue"
+            android:drawableLeft="@drawable/add"
+            android:padding="15dp" />-->
+    </LinearLayout>
+
+
+</RelativeLayout>

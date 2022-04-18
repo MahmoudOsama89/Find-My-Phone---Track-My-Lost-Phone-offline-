@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="listview1"/>
+    <item type="id" name="listview2"/>
+    <item type="id" name="listview3"/>
+    <item type="id" name="listview4"/>
+    <item type="id" name="listview5"/>
+</resources>

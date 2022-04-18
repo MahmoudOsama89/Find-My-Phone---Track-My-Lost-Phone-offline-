@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/mainform"
+    android:background="@color/whitebackground"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <LinearLayout
+        android:background="@color/whitebackground"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/leaivermod">
+
+
+        <ListView
+            android:background="@color/whitebackground"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/listView"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+
+            android:layout_marginTop="@dimen/top_margin"
+            android:layout_weight="1" />
+
+
+           <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/listView1"
+           android:orientation="horizontal" android:gravity="center"  android:background="@color/whitebackground" >
+           <!--<com.google.android.gms.ads.NativeExpressAdView
+               android:id="@+id/adView"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               ads:adUnitId="@string/Native_ad_unit_id"
+               ads:adSize="280x80">
+           </com.google.android.gms.ads.NativeExpressAdView>-->
+
+               <com.google.android.gms.ads.AdView
+                   xmlns:ads="http://schemas.android.com/apk/res-auto"
+                   android:id="@+id/adView"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerHorizontal="true"
+                   android:layout_alignParentBottom="true"
+                   ads:adSize="BANNER"
+                   ads:adUnitId="@string/banner_ad_unit_id">
+               </com.google.android.gms.ads.AdView>
+
+
+    </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
