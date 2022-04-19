@@ -1,7 +1,7 @@
 _Features:
 1- Turn on app SMS Retriever every 5 minutes to listen to incoming SMS
-2- Receive SMS including app password & SMS RetrRetrievere
-3- Send Automatic SMS withwith offlineation once it connconnectedinternet because there is no other way to send sms from lost phone offline
+2- Receive SMS including app password & SMS retriever code
+3- Send Automatic SMS withwith offlineation once it connconnected to internet because there is no other way to send sms from lost phone offline
 
 Get it on Google Play:
 https://play.google.com/store/apps/details?id=com.trackerappsforlife.monitoring.findmyphone
