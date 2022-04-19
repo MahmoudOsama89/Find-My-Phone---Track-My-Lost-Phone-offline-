@@ -1,11 +1,14 @@
 _Features:
-1- Turn on app SMS Retriver every 5 minuits to listen to incomming SMS 
-2- Recieve SMS including app password & SMS Retriver Code
-3- Send Automatic SMS with lost mobile location once it connceted to internet because there is no other way to send sms from lost phone offline
+1- Turn on app SMS Retriever every 5 minutes to listen to incoming SMS
+2- Receive SMS including app password & SMS RetrRetrievere
+3- Send Automatic SMS withwith offlineation once it connconnectedinternet because there is no other way to send sms from lost phone offline
+
+Get it on Google Play:
+https://play.google.com/store/apps/details?id=com.trackerappsforlife.monitoring.findmyphone
 
 Clap phone finder app will allow you to find your phone by a simple clapping if it often happens to you to lose your phone in the office, the room.
 
-To operate clap phone Finder, just clap your hands and your phone will start vibrating, flashlight lit or ring according to the application setting which will allow you to locate it very quickly. Clap phone Finder informs you about the location of your lost phone.
+To operate clapClap Phoneder, just clap your hands and your phone will start vibrating, flashlight lit or ring according to the application setting which will allow you to locate it very quickly. Clap phonPhoneder informs you about the location of your lost phone.
 
 We are presenting Brand New Phone Finder by Clapping App with Extra Sensitivity…. clap phone finder is a professional tool which helps you finding lost phone. It detects sound of clapping and run loud alarm. Then you will easily find mobile phone. It’s the best and easiest way to quickly check where your phone is.
 
